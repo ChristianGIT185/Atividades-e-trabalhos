@@ -1,0 +1,26 @@
+Atv01_POO
+
+Nome: Christian Moreira Santos
+
+
+1 - O que é programação orientada a objetos?
+R: É um paradigma da programação que utiliza objetos conhecidos como entidades do mundo real ou conceitos abstratos, tais quais possuem características e comportamentos(métodos/funções). É um tipo de modelo reutilizável e fácil de ler e entender.
+
+
+2- Quais as vantagens de utilizar POO em relação a programação estruturada?
+
+R: Vantagens:
+
+1 - Organização eficiente: Em POO o código é organizado em objetos integrandos dados e comportamentos. Assim, o código fica mais limpo e legível.
+Reutilização do código: Com herança, é possível reaproveitar classes já criadas, o que reduz drasticamente a repetição.
+Segurabilidade: Com encapsulamento, é possível esconder dados internos do objeto, promovendo segurança.
+
+3 - Defina o conceito de objeto no paradigma POO.
+R: Um objeto pode ser designado como uma entidade do mundo real que possui comportamentos e características.
+
+4 - Explique os 4 principais fundamentos do paradigma POO.
+
+R:  Abstração: Representar apenas aquilo que é essencial de um objeto, ignorando detalhes desnecessários.
+Encapsulamento: Esconder os dados internos de um objeto, permitindo acesso somente por meios controlados.
+Herança: Criar uma classe a partir de outra já existente e aproveitar suas características.
+Polimorfismo: Um método pode ter comportamentos distintos.
